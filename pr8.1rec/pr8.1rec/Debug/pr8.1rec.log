@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Arsen\source\repos\pr8.1rec\pr8.1rec\Source.cpp(20): warning C4715: SearchSign: значение возвращается не при всех путях выполнения
+  pr8.1rec.vcxproj -> C:\Users\Arsen\source\repos\pr8.1rec\Debug\pr8.1rec.exe
