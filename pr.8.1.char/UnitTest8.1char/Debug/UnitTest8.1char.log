@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest8.1char.cpp
+C:\Users\Arsen\source\repos\pr.8.1.char\UnitTest8.1char\UnitTest8.1char.cpp(17,1): warning C4305: инициализация: усечение из "bool (__cdecl *)(const char *,int &,int &)" в "bool"
+     Создается библиотека C:\Users\Arsen\source\repos\pr.8.1.char\Debug\UnitTest8.1char.lib и объект C:\Users\Arsen\source\repos\pr.8.1.char\Debug\UnitTest8.1char.exp
+  UnitTest8.1char.vcxproj -> C:\Users\Arsen\source\repos\pr.8.1.char\Debug\UnitTest8.1char.dll
